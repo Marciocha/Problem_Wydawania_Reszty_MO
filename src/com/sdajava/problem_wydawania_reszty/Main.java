@@ -11,7 +11,6 @@ public class Main {
 
         int R = scanner.nextInt();
 
-
         int[] N = {200, 100, 50, 20, 10, 5, 2, 1};
         int L;
 
@@ -35,7 +34,6 @@ public class Main {
       System.out.println("Podaj kwote, ktora chcesz wydac: ");
 
                 int R = scanner.nextInt();
-
 
                 int[] N = {200, 100, 50, 20, 10, 5, 2, 1};
                 int i = 0;
