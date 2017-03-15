@@ -22,7 +22,7 @@ public class Main {
             else if(R >= N[i]){
                 L = R / N[i];
                 R = R - (N[i] * L);
-                System.out.println("Nominał " + N[i] + " x " + L);
+                System.out.println("Nominał " + N[i] + " zl x " + L);
             }else{
             }
         }
@@ -39,7 +39,6 @@ public class Main {
 
                 int[] N = {200, 100, 50, 20, 10, 5, 2, 1};
                 int i = 0;
-
 
                 while(R > 0) {
                     if (R >= N[i]) {
